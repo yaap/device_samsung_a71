@@ -1,4 +1,5 @@
 # All unpinned blobs below are extracted from a71naxx-user 13 TP1A.220624.014 A715FXXSBDXB1 release-keys
+# ITALY-ITV | CSC version: A715FOXMBDXB1
 
 # ADSP Configs
 vendor/etc/audconf/ARO/Bluetooth_cal.acdb

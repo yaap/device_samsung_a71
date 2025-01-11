@@ -26,3 +26,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=samsung/a71naxx/qssi:13/TP1A.220624.014/A715FXXSBDXB1:user/release-keys \
     DeviceProduct=a71naxx \
     SystemName=a71naxx
+
+# YAAP Flags
+TARGET_BUILD_GAPPS := true
+TARGET_SUPPORTS_64_BIT_APPS := true
+TARGET_ENABLE_BLUR := true
